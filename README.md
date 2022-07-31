@@ -4,3 +4,6 @@ Aplicativo desenvolvido durante o curso de flutter da Udemy. Este aplicativo pos
 
 ![Gif-WhatsApp](https://github.com/NataliaRamalho/WhatsApp/blob/master/whatsgif.gif)
 
+⏰ Projeto desenvolvido em setembro/2020
+
+
